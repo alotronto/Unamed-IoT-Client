@@ -3,7 +3,7 @@
 #                           Version 2.0, January 2004
 #                        http://www.apache.org/licenses/
 #
-#Copyright (c) 2014 2015 Andrea Rocco Lotronto
+#Copyright (c) 2014 2017 Andrea Rocco Lotronto
 #
 
 import shutil

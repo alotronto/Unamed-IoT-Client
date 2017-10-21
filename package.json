@@ -1,7 +1,7 @@
 {
-  "name": "s4t-lighthing-rod",
-  "version": "0.0.1",
-  "description": "node-lighthing-rod is the client to connect Arduino YUN/Linino One or Raspberry Pi to s4t-node-cloud",
+  "name": "Unamed-IoT-Client",
+  "version": "0.0.0",
+  "description": "Unamed-IoT-Client is the client to connect Arduino YUN/Linino One or Raspberry Pi to Unamed-IoT-Cloud",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MDSLab/s4t-lighthing-rod.git"
+    "url": "https://github.com/alotronto/Unamed-IoT-Client.git"
   },
   "keywords": [
     "WAMP",
@@ -25,11 +25,11 @@
   "license": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/MDSLab/s4t-lighthing-rod/LICENSE"
+      "url": "https://github.com/alotronto/Unamed-IoT-Client/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/MDSLab/s4t-lighthing-rod/issues"
+    "url": "https://github.com/alotronto/Unamed-IoT-Client/issues"
   },
-  "homepage": "https://github.com/MDSLab/s4t-lighthing-rod"
+  "homepage": "https://github.com/alotronto/Unamed-IoT-Client"
 }
